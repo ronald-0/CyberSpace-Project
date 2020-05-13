@@ -1,0 +1,60 @@
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.exe
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.deps.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.dev.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.dll
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.pdb
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.csprojAssemblyReference.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.csproj.CoreCompileInputs.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfoInputs.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfo.cs
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.RazorTargetAssemblyInfo.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\obj\Debug\netcoreapp3.1\staticwebassets\SchoolPortal.StaticWebAssets.Manifest.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\obj\Debug\netcoreapp3.1\staticwebassets\SchoolPortal.StaticWebAssets.xml
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.dll
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.pdb
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\School Portal\SchoolPortal\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.genruntimeconfig.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.exe
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.deps.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.dev.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.dll
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.pdb
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.csprojAssemblyReference.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.csproj.CoreCompileInputs.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfoInputs.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfo.cs
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.RazorTargetAssemblyInfo.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\staticwebassets\SchoolPortal.StaticWebAssets.Manifest.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\staticwebassets\SchoolPortal.StaticWebAssets.xml
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.dll
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.pdb
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.genruntimeconfig.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.exe
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.deps.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.dev.json
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.dll
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.pdb
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.csprojAssemblyReference.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.csproj.CoreCompileInputs.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfoInputs.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfo.cs
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.RazorTargetAssemblyInfo.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\staticwebassets\SchoolPortal.StaticWebAssets.Manifest.cache
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\staticwebassets\SchoolPortal.StaticWebAssets.xml
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.dll
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.pdb
+C:\Users\Ronald Onwubuya\Documents\Cyberspace Limited\Onwubuya Ronald's SchoolPortalproject\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.genruntimeconfig.cache
