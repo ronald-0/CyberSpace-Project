@@ -1,0 +1,14 @@
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\bin\Debug\netcoreapp2.1\PortalProject.deps.json
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\bin\Debug\netcoreapp2.1\PortalProject.runtimeconfig.json
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\bin\Debug\netcoreapp2.1\PortalProject.runtimeconfig.dev.json
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\bin\Debug\netcoreapp2.1\PortalProject.dll
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\bin\Debug\netcoreapp2.1\PortalProject.pdb
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\obj\Debug\netcoreapp2.1\PortalProject.csprojAssemblyReference.cache
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\obj\Debug\netcoreapp2.1\PortalProject.csproj.CoreCompileInputs.cache
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\obj\Debug\netcoreapp2.1\PortalProject.RazorAssemblyInfo.cache
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\obj\Debug\netcoreapp2.1\PortalProject.RazorAssemblyInfo.cs
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\obj\Debug\netcoreapp2.1\PortalProject.AssemblyInfoInputs.cache
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\obj\Debug\netcoreapp2.1\PortalProject.AssemblyInfo.cs
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\obj\Debug\netcoreapp2.1\PortalProject.RazorTargetAssemblyInfo.cache
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\obj\Debug\netcoreapp2.1\PortalProject.dll
+C:\Users\siji4\Documents\Davidson\SchoolPortal2\PortalProject\obj\Debug\netcoreapp2.1\PortalProject.pdb
