@@ -26,7 +26,7 @@ namespace SchoolPortalAPI.Controllers
             _service = service;
 
         }
-        [HttpGet("/schoolapi/courses/{Courseid}")]
+        [HttpGet("/schoolapi/courses/{CourseID}")]
         public ActionResult<Course> GetById(int CourseID)
         {
             var courses = _service.GetById(CourseID);
@@ -47,7 +47,7 @@ namespace SchoolPortalAPI.Controllers
         }
 
         [HttpPost("/schoolapi/courses")]
-        public ActionResult<Course> AddCourse(Course course)
+        public ActionResult<Course> AddCourse([FromBody]Course course)
         {
             var courses = _service.AddCourse(course);
             //if (courses == null)
@@ -57,14 +57,14 @@ namespace SchoolPortalAPI.Controllers
             return courses;
         }
 
-        [HttpPut("/schoolapi/courses/{Courseid}")]
+        [HttpPut("/schoolapi/courses/{CourseID}")]
         public ActionResult<Course> UpdateCourse(int CourseID, Course course)
         {
             var courses = _service.UpdateCourse(CourseID, course);
             return courses;
         }
 
-        [HttpDelete("/schoolapi/courses/{Courseid}")]
+        [HttpDelete("/schoolapi/courses/{CourseID}")]
         public ActionResult<Course> DeleteCourse(int CourseID)
         {
             var del_course = _service.DeleteCourse(CourseID);

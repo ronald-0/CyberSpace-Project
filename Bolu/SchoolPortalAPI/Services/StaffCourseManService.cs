@@ -18,11 +18,12 @@ namespace SchoolPortalAPI.Services
             _staffCourses = new Dictionary<int, StaffCourseMan>();
         }
         
-        public List<StaffCourseMan> GetStaffCourse()  //display
+        public List<StaffCourseMan> GetStaffCourse()  //Display
         {
             return _staffCourses.Values.ToList();
         }
-        public StaffCourseMan GetStaffCourseById(int ID)
+
+        public StaffCourseMan GetStaffCourseById(int ID) //GetByID
         {
             if (_staffCourses.ContainsKey(ID))
                 return _staffCourses[ID];
@@ -30,10 +31,9 @@ namespace SchoolPortalAPI.Services
         }
 
 
-        public StaffCourseMan AddStaffCourse(StaffCourseMan staffCourse)   // add
+        public StaffCourseMan AddStaffCourse(StaffCourseMan staffCourse)   // Add
         {
-            //_staffCourses.Add(staffCourse);
-            //return staffCourse;
+           
             if (!_staffCourses.ContainsKey(staffCourse.ID))
             {
                 staffCourse.ID = ID++;
@@ -45,45 +45,34 @@ namespace SchoolPortalAPI.Services
 
 
         
-
-
-
-        
-        public StaffCourseMan UpdateStaffCourse(int ID, StaffCourseMan staffCourse)
+        public StaffCourseMan UpdateStaffCourse(int ID, StaffCourseMan staffCourse) //Update
         {
-            for (var index = _staffCourses.Count - 1; index >= 0; index--)
-            {
-                if (_staffCourses.ContainsKey(ID))
-                {
-                    _staffCourses[ID] = staffCourse;
-                }
-                //else
-                //{
-                //    _staffCourses.Add(staffCourse.ID, staffCourse);
-                //}
-
-            }
             
+            if (_staffCourses.ContainsKey(ID))
+            {
+                _staffCourses[ID] = staffCourse;
+            }
+            else
+            {
+                _staffCourses.Add(staffCourse.ID, staffCourse);
+            }
+
+
             return staffCourse;
         }
 
 
-        
 
-
-
-
-
-        public StaffCourseMan DeleteStaffCourse(int ID)
+        public StaffCourseMan DeleteStaffCourse(int ID) //Delete
         {
             var removed = _staffCourses[ID];
-            for (var index = _staffCourses.Count - 1; index >= 0; index--)
-            {
+           
+            
                 if (_staffCourses.ContainsKey(ID))
                 {
                     _staffCourses.Remove(ID);
                 }
-            }
+            
 
             return removed;
         }

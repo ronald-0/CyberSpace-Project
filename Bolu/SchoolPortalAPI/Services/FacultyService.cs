@@ -15,12 +15,12 @@ namespace SchoolPortalAPI.Services
             _faculties = new Dictionary<int, Faculty>();
         }
 
-        public List<Faculty> GetFaculties()
+        public List<Faculty> GetFaculties() //Display
         {
             return _faculties.Values.ToList();
         }
 
-        public Faculty AddFaculty(Faculty faculty)
+        public Faculty AddFaculty(Faculty faculty) //Add
         {
             if (!_faculties.ContainsKey(faculty.FacultyID))
             {
@@ -32,7 +32,7 @@ namespace SchoolPortalAPI.Services
             return faculty;
         }
 
-        public Faculty GetByFacultyId(int FacultyID)
+        public Faculty GetByFacultyId(int FacultyID) //GetByID
         {
             if (_faculties.ContainsKey(FacultyID))
                 return _faculties[FacultyID];
@@ -40,7 +40,7 @@ namespace SchoolPortalAPI.Services
             return null;
         }
 
-        public Faculty UpdateFaculty(int FacultyID, Faculty faculty)
+        public Faculty UpdateFaculty(int FacultyID, Faculty faculty) //Update
         {
             if (!_faculties.ContainsKey(FacultyID))
             {
@@ -57,37 +57,21 @@ namespace SchoolPortalAPI.Services
             return faculty;
 
         }
-        public Faculty DeleteFaculty(int FacultyID)
+        
+
+        public Faculty DeleteFaculty(int FacultyID) //Delete
         {
             var removed = _faculties[FacultyID];
-            for (var index = _faculties.Count - 1; index >= 0; index--)
+           
+            if (_faculties.ContainsKey(FacultyID))
             {
-                if (_faculties.ContainsKey(FacultyID))
-                {
-                    _faculties.Remove(FacultyID);
-                }
-
+                _faculties.Remove(FacultyID);
             }
+
+
             return removed;
         }
-        //public Faculty DeleteFaculty(int FacultyID)
-        //{
-            
-        //    if (!_faculties.ContainsKey(FacultyID))
-        //    {
-        //        return null;
-        //    }
-        //    else
-        //    {
-        //        var removed = _faculties[FacultyID];
 
-        //        _faculties.Remove(FacultyID);
-
-        //        return removed;
-        //    }
-
-            
-        
     }
 }
 

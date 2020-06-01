@@ -17,20 +17,20 @@ namespace SchoolPortalAPI.Services
             _student = new Dictionary<int, Student>();
         }
 
-        public List<Student> GetStudents()
+        public List<Student> GetStudents() //Display
         {
             return _student.Values.ToList();
         }
 
 
-        public Student GetByStudentId(int StudentID)
+        public Student GetByStudentId(int StudentID) //GetByID
         {
             if (_student.ContainsKey(StudentID))
                 return _student[StudentID];
             return null;
         }
 
-        public Student AddStudent(Student studentItem)
+        public Student AddStudent(Student studentItem) //Add
         {
             if (!_student.ContainsKey(studentItem.StudentID))
             {
@@ -42,37 +42,33 @@ namespace SchoolPortalAPI.Services
 
         }
 
-        public Student UpdateStudent(int StudentID, Student studentItem)
+        public Student UpdateStudent(int StudentID, Student studentItem) //Update
         {
-            for (var index = _student.Count - 1; index >= 0; index--)
+            if (_student.ContainsKey(StudentID))
             {
-                if (_student.ContainsKey(StudentID))
-                {
-                    _student[StudentID] = studentItem;
-                }
-                else
-                {
-                    _student.Add(studentItem.StudentID, studentItem);
-                }
-
+                _student[StudentID] = studentItem;
             }
+            else
+            {
+                _student.Add(studentItem.StudentID, studentItem);
+            }
+
             return studentItem;
         }
 
 
 
 
-        public Student DeleteStudent(int StudentID)
+        public Student DeleteStudent(int StudentID) //Delete
         {
             var removed = _student[StudentID];
-            for (var index = _student.Count - 1; index >= 0; index--)
-            {
-                if (_student.ContainsKey(StudentID))
-                {
-                    _student.Remove(StudentID);
-                }
 
+            if (_student.ContainsKey(StudentID))
+            {
+                _student.Remove(StudentID);
             }
+
+           
             return removed;
         }
 

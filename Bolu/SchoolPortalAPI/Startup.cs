@@ -27,6 +27,7 @@ namespace SchoolPortalAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddOpenApiDocument();
             services.AddSingleton<ICourseService, CourseService>();
             services.AddSingleton<IFacultyService, FacultyService>();
             services.AddSingleton<IStaffCourse, StaffCourseManService>();
@@ -44,8 +45,11 @@ namespace SchoolPortalAPI
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
-
+            //app.UseHttpsRedirection();
+            app.UseOpenApi();
+            app.UseSwaggerUi3();
+            
+            app.UseReDoc(o => o.Path = "/redoc");
             app.UseRouting();
 
             app.UseAuthorization();

@@ -27,7 +27,7 @@ public class StaffController : Controller
         _service = service;
 
     }
-    [HttpGet("/schoolapi/staff/{Staffid}")]
+    [HttpGet("/schoolapi/staff/{StaffID}")]
 
     public ActionResult<Staff> GetByStaffId(int StaffID)
     {
@@ -60,14 +60,14 @@ public class StaffController : Controller
         return staffs;
     }
 
-    [HttpPut("/schoolapi/staff/{Staffid}")]
+    [HttpPut("/schoolapi/staff/{StaffID}")]
     public ActionResult<Staff> UpdateStaff(int StaffID, Staff staff)
     {
         var staffs = _service.UpdateStaff(StaffID, staff);
         return staffs;
     }
 
-    [HttpDelete("/schoolapi/staff/{Staffid}")]
+    [HttpDelete("/schoolapi/staff/{StaffID}")]
     public ActionResult<Staff> DeleteStaff(int StaffID)
     {
         var del_staff = _service.DeleteStaff(StaffID);

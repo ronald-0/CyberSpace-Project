@@ -10,4 +10,9 @@
     <Folder Include="Services\" />
     <Folder Include="Controllers\" />
   </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="NSwag.AspNetCore" Version="13.6.0" />
+  </ItemGroup>
 </Project>

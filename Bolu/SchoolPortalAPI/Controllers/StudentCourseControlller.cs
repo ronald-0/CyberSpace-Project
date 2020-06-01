@@ -28,7 +28,7 @@ namespace SchoolPortalAPI.Controllers
             _service = service;
 
         }
-        [HttpGet("/schoolapi/studentcourse/{StudentCourseid}")]
+        [HttpGet("/schoolapi/studentcourse/{StudentCourseID}")]
         public ActionResult<StudentCourse> GetByStudentCourseId(int StudentCourseID)
         {
             var studentcourses = _service.GetByStudentCourseId(StudentCourseID);
@@ -58,15 +58,16 @@ namespace SchoolPortalAPI.Controllers
             }
             return studentcourses;
         }
+        
 
-        [HttpPut("/schoolapi/studentcourse/{StudentCourseid}")]
+        [HttpPut("/schoolapi/studentcourse/{StudentCourseID}")]
         public ActionResult<StudentCourse> UpdateStudentCourse(int StudentCourseID, StudentCourse student)
         {
             var studentcourses = _service.UpdateStudentCourse(StudentCourseID, student);
             return studentcourses;
         }
 
-        [HttpDelete("/schoolapi/studentcourse/{StudentCourseid}")]
+        [HttpDelete("/schoolapi/studentcourse/{StudentCourseID}")]
         public ActionResult<StudentCourse> DeleteStudentCourse(int StudentCourseID)
         {
             var del_studentcourse = _service.DeleteStudentCourse(StudentCourseID);

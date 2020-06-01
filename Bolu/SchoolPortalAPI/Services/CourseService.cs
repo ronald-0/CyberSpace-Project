@@ -17,20 +17,20 @@ namespace SchoolPortalAPI.Services
             _courses = new Dictionary<int, Course>();
         }
 
-        public List<Course> GetCourses()
+        public List<Course> GetCourses() //Display
         {
             return _courses.Values.ToList();
         }
 
         
-        public Course GetById(int CourseID)
+        public Course GetById(int CourseID) //GetByID
         {
             if (_courses.ContainsKey(CourseID))
                 return _courses[CourseID];
             return null;
         }
 
-        public Course AddCourse(Course courseItem)
+        public Course AddCourse(Course courseItem) //Add
         {
             if (!_courses.ContainsKey(courseItem.CourseID))
             {
@@ -42,10 +42,11 @@ namespace SchoolPortalAPI.Services
 
         }
 
-        public Course UpdateCourse(int CourseID, Course courseItem)
+        // DONE: this code can be improved on to reduce the time complexity 
+        // DONE: remove the loop
+        public Course UpdateCourse(int CourseID, Course courseItem) //Update
         {
-            for (var index = _courses.Count - 1; index >= 0; index--)
-            {
+            
                 if (_courses.ContainsKey(CourseID))
                 {
                     _courses[CourseID] = courseItem;
@@ -55,24 +56,23 @@ namespace SchoolPortalAPI.Services
                     _courses.Add(courseItem.CourseID, courseItem);
                 }
 
-            }
+            
             return courseItem;
         }
 
+        
 
 
-
-        public Course DeleteCourse(int CourseID)
+        public Course DeleteCourse(int CourseID) //Delete
         {
             var removed = _courses[CourseID];
-            for (var index = _courses.Count - 1; index >= 0; index--)
-            {
+            
                 if (_courses.ContainsKey(CourseID))
                 {
                     _courses.Remove(CourseID);
                 }
 
-            }
+            
             return removed;
         }
 

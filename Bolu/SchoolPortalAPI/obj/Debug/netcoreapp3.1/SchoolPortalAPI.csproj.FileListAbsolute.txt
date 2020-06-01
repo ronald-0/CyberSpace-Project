@@ -16,3 +16,70 @@
 /Users/boluwatifeomosowon/Documents/SIWES PROJ/c# projects/dev ops/Project1/SchoolPortalAPI/obj/Debug/netcoreapp3.1/staticwebassets/SchoolPortalAPI.StaticWebAssets.xml
 /Users/boluwatifeomosowon/Documents/SIWES PROJ/c# projects/dev ops/Project1/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.dll
 /Users/boluwatifeomosowon/Documents/SIWES PROJ/c# projects/dev ops/Project1/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.pdb
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/mono_crash.91852a856.0.json
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/SchoolPortalAPI.exe
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/SchoolPortalAPI.deps.json
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/SchoolPortalAPI.runtimeconfig.json
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/SchoolPortalAPI.runtimeconfig.dev.json
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/SchoolPortalAPI.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/SchoolPortalAPI.pdb
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.csprojAssemblyReference.cache
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.AssemblyInfoInputs.cache
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.AssemblyInfo.cs
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.RazorTargetAssemblyInfo.cache
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/staticwebassets/SchoolPortalAPI.StaticWebAssets.Manifest.cache
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/staticwebassets/SchoolPortalAPI.StaticWebAssets.xml
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.pdb
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.genruntimeconfig.cache
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Namotion.Reflection.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/NJsonSchema.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/NSwag.Annotations.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/NSwag.AspNetCore.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/NSwag.Core.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/NSwag.Generation.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/NSwag.Generation.AspNetCore.dll
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.csproj.CoreCompileInputs.cache
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Cyberspace Staff/source/repos/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.csproj.CopyComplete
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/mono_crash.91852a856.0.json
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/SchoolPortalAPI.deps.json
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/SchoolPortalAPI.runtimeconfig.json
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/SchoolPortalAPI.runtimeconfig.dev.json
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/SchoolPortalAPI.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/SchoolPortalAPI.pdb
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Namotion.Reflection.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/NJsonSchema.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/NSwag.Annotations.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/NSwag.AspNetCore.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/NSwag.Core.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/NSwag.Generation.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/bin/Debug/netcoreapp3.1/NSwag.Generation.AspNetCore.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.csprojAssemblyReference.cache
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.AssemblyInfoInputs.cache
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.AssemblyInfo.cs
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.RazorTargetAssemblyInfo.cache
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.csproj.CopyComplete
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/staticwebassets/SchoolPortalAPI.StaticWebAssets.Manifest.cache
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/staticwebassets/SchoolPortalAPI.StaticWebAssets.xml
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.dll
+/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/obj/Debug/netcoreapp3.1/SchoolPortalAPI.pdb

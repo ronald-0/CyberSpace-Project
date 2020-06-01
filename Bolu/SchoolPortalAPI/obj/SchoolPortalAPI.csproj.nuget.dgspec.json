@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/boluwatifeomosowon/Documents/SIWES PROJ/c# projects/dev ops/Project1/SchoolPortalAPI/SchoolPortalAPI.csproj": {}
+    "/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/SchoolPortalAPI.csproj": {}
   },
   "projects": {
-    "/Users/boluwatifeomosowon/Documents/SIWES PROJ/c# projects/dev ops/Project1/SchoolPortalAPI/SchoolPortalAPI.csproj": {
+    "/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/SchoolPortalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/boluwatifeomosowon/Documents/SIWES PROJ/c# projects/dev ops/Project1/SchoolPortalAPI/SchoolPortalAPI.csproj",
+        "projectUniqueName": "/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/SchoolPortalAPI.csproj",
         "projectName": "SchoolPortalAPI",
-        "projectPath": "/Users/boluwatifeomosowon/Documents/SIWES PROJ/c# projects/dev ops/Project1/SchoolPortalAPI/SchoolPortalAPI.csproj",
+        "projectPath": "/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/SchoolPortalAPI.csproj",
         "packagesPath": "/Users/boluwatifeomosowon/.nuget/packages/",
-        "outputPath": "/Users/boluwatifeomosowon/Documents/SIWES PROJ/c# projects/dev ops/Project1/SchoolPortalAPI/obj/",
+        "outputPath": "/Users/boluwatifeomosowon/Downloads/SchoolPortal/Bolu/SchoolPortalAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/boluwatifeomosowon/.config/NuGet/NuGet.Config"
@@ -35,6 +35,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.6.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

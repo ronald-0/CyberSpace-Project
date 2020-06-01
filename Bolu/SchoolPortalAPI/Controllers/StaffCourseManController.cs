@@ -26,7 +26,7 @@ namespace SchoolPortalAPI.Controllers
             _service = service;
 
         }
-        [HttpGet("/schoolapi/staffcourse/{id}")]
+        [HttpGet("/schoolapi/staffcourse/{ID}")]
         public ActionResult<StaffCourseMan> GetStaffCoursesById(int ID)
         {
            
@@ -67,14 +67,14 @@ namespace SchoolPortalAPI.Controllers
 
        
 
-        [HttpPut("/schoolapi/staffcourse/{id}")]
+        [HttpPut("/schoolapi/staffcourse/{ID}")]
         public ActionResult<StaffCourseMan> UpdateStaffCourse(int ID, StaffCourseMan staffCourse)
         {
             var staffcourses = _service.UpdateStaffCourse(ID, staffCourse);
             return staffcourses;
         }
 
-        [HttpDelete("/schoolapi/staffcourse/{id}")]
+        [HttpDelete("/schoolapi/staffcourse/{ID}")]
        
         public ActionResult<StaffCourseMan> DeleteStaffCourse(int ID)
         {
